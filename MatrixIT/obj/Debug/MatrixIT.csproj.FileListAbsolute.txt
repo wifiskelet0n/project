@@ -1,0 +1,14 @@
+C:\Users\linni\source\repos\MatrixIT\bin\Debug\MatrixIT.exe.config
+C:\Users\linni\source\repos\MatrixIT\bin\Debug\MatrixIT.exe
+C:\Users\linni\source\repos\MatrixIT\bin\Debug\MatrixIT.pdb
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.csproj.AssemblyReference.cache
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MainWindow.baml
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MainWindow.g.cs
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\App.g.cs
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT_MarkupCompile.cache
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.g.resources
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.Properties.Resources.resources
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.csproj.GenerateResource.cache
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.csproj.CoreCompileInputs.cache
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.exe
+C:\Users\linni\source\repos\MatrixIT\obj\Debug\MatrixIT.pdb
